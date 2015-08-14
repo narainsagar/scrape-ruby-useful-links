@@ -7,6 +7,8 @@ http://stackoverflow.com/questions/2861/options-for-html-scraping
 
 https://github.com/markets/awesome-ruby#web-crawling
 
+https://blog.scraperwiki.com/2013/11/finding-contact-details-from-websites/
+
 http://ruby.bastardsbook.com/chapters/html-parsing/
 
 http://stackoverflow.com/questions/13584983/how-can-i-find-an-email-address-inside-html-code-with-nokogiri?lq=1
